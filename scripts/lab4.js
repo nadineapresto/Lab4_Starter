@@ -1,3 +1,4 @@
+// Simple merge test
 /**
  * 
  * @param {*} num1, first number to add. 
